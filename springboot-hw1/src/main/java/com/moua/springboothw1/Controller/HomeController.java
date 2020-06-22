@@ -36,4 +36,9 @@ public class HomeController {
         return "other.html";
     }
     
+    @RequestMapping("/test")
+    public String test(){
+        return "test.html";
+    }
+    
 }

@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-DemoApplication<springboot-hw1>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.moua.springboothw1.DemoApplication",
+            "projectName": "springboot-hw1",
+            "args": ""
+        }
+    ]
+}
